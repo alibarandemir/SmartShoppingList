@@ -1,0 +1,6 @@
+@SmartShoppingList.Server_HostAddress = http://localhost:5142
+
+GET {{SmartShoppingList.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
